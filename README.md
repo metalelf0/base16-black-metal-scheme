@@ -7,12 +7,16 @@ Previews
 ---
 
 ![Black Metal Scheme](images/base16-black-metal.png "Black metal scheme")
+![Black Metal Scheme - Bathory Variant](images/base16-black-metal-bathory.png "Black metal scheme - Bathory Variant")
 ![Black Metal Scheme - Burzum Variant](images/base16-black-metal-burzum.png "Black metal scheme - Burzum Variant")
 ![Black Metal Scheme - Dark Funeral Variant](images/base16-black-metal-dark-funeral.png "Black metal scheme - Dark Funeral Variant")
+![Black Metal Scheme - Gorgoroth Variant](images/base16-black-metal-gorgoroth.png "Black metal scheme - Gorgoroth Variant")
 ![Black Metal Scheme - Immortal Variant](images/base16-black-metal-immortal.png "Black metal scheme - Immortal Variant")
 ![Black Metal Scheme - Khold Variant](images/base16-black-metal-khold.png "Black metal scheme - Khold Variant")
+![Black Metal Scheme - Marduk Variant](images/base16-black-metal-marduk.png "Black metal scheme - Marduk Variant")
 ![Black Metal Scheme - Mayhem Variant](images/base16-black-metal-mayhem.png "Black metal scheme - Mayhem Variant")
 ![Black Metal Scheme - Nile Variant](images/base16-black-metal-nile.png "Black metal scheme - Nile Variant")
+![Black Metal Scheme - Venom Variant](images/base16-black-metal-venom.png "Black metal scheme - Venom Variant")
 
 Howto
 ---
@@ -35,12 +39,16 @@ You're joking, aren't you?
 Cover references
 ---
 
-* Burzum: Filosofem;
+* Bathory: Hammerheart
+* Burzum: Filosofem
 * Dark Funeral: The secrets of the black arts
+* Gorgoroth: Twilight of the idols
 * Immortal: At the heart of winter
 * Khold: Phantom
+* Marduk: Panzer Division Marduk
 * Mayhem: Dawn of the black hearts 
 * Nile: Black seeds of vengeance
+* Venom: Welcome to hell
 
 Disclaimer
 ---
