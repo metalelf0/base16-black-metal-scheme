@@ -36,10 +36,10 @@ Cover references
 ---
 
 * Burzum: Filosofem;
-* Dark Funeral: The secrets of the black hearts
+* Dark Funeral: The secrets of the black arts
 * Immortal: At the heart of winter
 * Khold: Phantom
-* Mayhem: Dawn of the black arts 
+* Mayhem: Dawn of the black hearts 
 * Nile: Black seeds of vengeance
 
 Disclaimer
