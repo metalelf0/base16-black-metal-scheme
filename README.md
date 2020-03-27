@@ -55,3 +55,7 @@ Disclaimer
 
 I know Nile don't play black metal, but I don't want to name the repo 'base16-black-and-technical-death-metal' `;)`.
 
+License
+---
+
+This schemes are available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
